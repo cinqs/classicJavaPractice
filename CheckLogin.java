@@ -1,3 +1,4 @@
+package pkgClass;
 import java.util.Scanner;
 
 public class CheckLogin {
