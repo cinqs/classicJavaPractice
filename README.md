@@ -10,11 +10,9 @@
 7. Bicycle
 
   name      | content
-------------------------------
-  Bicycle   | 1. Bicycle
-            | 2. MountainBike
-            | 3. Entrence
-------------------------------
+-------------------------------------------------------
+  Bicycle   | 1. Bicycle 2. MountainBike 3. Entrence
+-------------------------------------------------------
 
 ```java
 public class Readme{
