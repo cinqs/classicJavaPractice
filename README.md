@@ -16,7 +16,7 @@
             | 3. Entrence
 ------------------------------
 
-```
+```java
 public class Readme{
     private static int numClass;
 
