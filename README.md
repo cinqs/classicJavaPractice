@@ -10,19 +10,20 @@
 7. Bicycle
 
   name      | content
-  ---------------------------
+------------------------------
   Bicycle   | 1. Bicycle
             | 2. MountainBike
             | 3. Entrence
+------------------------------
 
-`public class Readme{
-    private int numClasses;
+public class Readme{
+    private static int numClass;
 
     public static void main(String [] args){
-      addClasses();
+        addClasses();
     }
 
     private static void addClasses(){
-      ++numClasses;
+        ++numClass;
     }
-  }`
+}
