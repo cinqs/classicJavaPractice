@@ -16,6 +16,7 @@
             | 3. Entrence
 ------------------------------
 
+```
 public class Readme{
     private static int numClass;
 
@@ -27,3 +28,4 @@ public class Readme{
         ++numClass;
     }
 }
+```
