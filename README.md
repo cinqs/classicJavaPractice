@@ -15,7 +15,7 @@
             | 2. MountainBike
             | 3. Entrence
 
-  `public class Readme{
+`public class Readme{
     private int numClasses;
 
     public static void main(String [] args){
